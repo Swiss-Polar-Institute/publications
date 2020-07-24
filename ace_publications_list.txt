@@ -94,4 +94,4 @@ Landwehr, S., Thurnherr, I., Cassar, N., Gysel-Beer, M. and Schmale, J. (2019) <
 ">Using global reanalysis data to quantify and correct airflow distortion bias in shipborne wind speed measurements</a>, <em>Atmospheric Measurement Techniques Discussions</em>, pp. 1–26.
 
 
-*last updated on 23 July 2020
+Last updated on 23 July 2020
