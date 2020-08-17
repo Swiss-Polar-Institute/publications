@@ -18,9 +18,11 @@ Le Guen, C., Suaria, G., Sherley, R., Ryan, P.G., Aliani, S., Boehme L. and Brie
 King, A. C. F., Thomas, E. R., Pedro, J. B., Markle, B., Potocki, M., Jackson, S. L., Wolff, E. and Kalberer, M. (2019). <a href="https://doi.org/10.1029/2019GL084249">Organic compounds in a sub‐Antarctic ice core: A potential suite of sea ice markers</a>. <em>Geophysical Research Letters</em>, 46.
 
 <h4>Project: Antarctica to reveal pre-industrial atmosphere (PI: Julia Schmale)</h4>
-Schmale, J., A. Baccarini, I. Thurnherr, S. Henning, A. Efraim, L. Regayre, C. Bolas, M. Hartmann, A. Welti, K. Lehtipalo, F. Aemisegger, C. Tatzelt, S. Landwehr, R.L. Modini, F. Tummon, J. Johnson, N. Harris, M. Schnaiter, A. Toffoli, M. Derkani, N. Bukowiecki, F. Stratmann, J. Dommen, U. Baltensperger, H. Wernli, D. Rosenfeld, M. Gysel-Beer, and K. Carslaw. (2019). <a href="https://doi.org/10.1175/BAMS-D-18-0187.1">Overview of the Antarctic Circumnavigation Expedition: Study of Preindustrial-like Aerosols and Their Climate Effects (ACE-SPACE)</a>. <em>Bulletin of the American Meteorological Society</em>.
+Efraim, A., Rosenfeld, D., Schmale, J., and Zhu, Y. (2020). <a href="https://doi.org/10.1029/2020JD032409">Satellite retrieval of cloud condensation nuclei concentrations in marine stratocumulus by using clouds as CCN chambers.</a> <em>Journal of Geophysical Research: Atmospheres</em>, 125, e2020JD032409.
 
-Landwehr, S., J. Schmale, and D. W. H. Walton. (2019). <a href="https://doi.org/10.1029/2019EO118919">Connecting the Southern Ocean with clouds.</a> <em>Eos</em>, 100.
+Landwehr, S., Schmale, J. and Walton, D. W. H. (2019). <a href="https://doi.org/10.1029/2019EO118919">Connecting the Southern Ocean with clouds.</a> <em>Eos</em>, 100.
+
+Schmale, J., Baccarini, A., Thurnherr, I., Henning, S., Efraim, A., Regayre, L., Bolas, C., Hartmann, M., Welti, A., Lehtipalo, K., Aemisegger, F., Tatzelt, C., Landwehr, S., Modini, R. L., Tummon, F., Johnson, J., Harris, N., Schnaiter, M., Toffoli, A., Derkani, M., Bukowiecki, N., Stratmann, F., Dommen, J., Baltensperger, U., Wernli, H., Rosenfeld, D., Gysel-Beer, M. and Carslaw, K. (2019). <a href="https://doi.org/10.1175/BAMS-D-18-0187.1">Overview of the Antarctic Circumnavigation Expedition: Study of Preindustrial-like Aerosols and Their Climate Effects (ACE-SPACE)</a>. <em>Bulletin of the American Meteorological Society</em>.
 <h4>Project: Testing the diversity of marine refugia on sub-Antarctic islands (PI: Nerida Wilson)</h4>
 Lau, S. C. Y., Wilson, N. G., Silva, C. N. S. and Strugnell, J. M. (2020). <a href="http://doi.org/10.1111/ecog.04951">Detecting glacial refugia in the Southern Ocean.</a> <em>Ecography</em>, 43, pp. 1–18.
 
