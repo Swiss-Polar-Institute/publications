@@ -30,18 +30,21 @@ Lau, S. C. Y., Wilson, N. G., Silva, C. N. S. and Strugnell, J. M. (2020). <a hr
 
 Layton, K. K. S., Rouse, G. W. and Wilson, N. G. (2019). <a href="https://doi.org/10.1186/s12862-019-1499-8">A newly discovered radiation of endoparasitic gastropods and their coevolution with asteroid hosts in Antarctica</a>. <em>BMC Evolutionary Biology</em>, 19(180), pp. 1–15.
 
-Strugnell, J. M., Pedro, J. B., and Wilson, N. G. (2018). <a href="https://doi.org/10.1016/j.quascirev.2017.11.014">Dating Antarctic ice sheet collapse: Proposing a molecular genetic approach</a>. <em>Quaternary Science Reviews</em>, 179, 153–157.
+Strugnell, J. M., Pedro, J. B., and Wilson, N. G. (2018). <a href="https://doi.org/10.1016/j.quascirev.2017.11.014">Dating Antarctic ice sheet collapse: Proposing a molecular genetic approach</a>. <em>Quaternary Science Reviews</em>, 179, pp. 153–157.
 
 Thomas, S. A. L., Sanchez, A., Kee, Y., Wilson, N. G., Baker, B. J. and Palmer, B. (2019). <a href="https://doi.org/10.3390/md17090513">Bathyptilones: Terpenoids from an Antarctic Sea Pen, Anthoptilum grandiflorum (Verrill, 1879).</a> <em>Marine drugs</em>, 17(513), pp. 1–13.
 
 <h4>Project: Measuring phytoplankton abundance and composition (PI: Sarah E. Fawcett)</h4>
+
+Puccinelli, E., Smart, S. M. and Fawcett, S. E. (2020). <a href="https://doi.org/10.1016/j.dsr.2020.103340>Temporal variability in the trophic composition of benthic invertebrates in the Indian Sub-Antarctic Ocean</a>, <em>Deep Sea Research Part I: Oceanographic Research Papers</em>, 163, p. 103340.
+
 Smart, S. M., Fawcett, S. E., Ren, H., Schiebel, R., Tompkins, E. M., Martínez-García, A., Stirnimann, L., Roychoudhury, A., Haug, G. H. and Sigman, D. M. (2020). <a href="http://doi.org/10.1029/2019GC008440">The Nitrogen Isotopic Composition of Tissue and Shell ‐ Bound Organic Matter of Planktic Foraminifera in Southern Ocean Surface Waters.</a> <em>Geochemistry, Geophysics, Geosystems</em>, 21(e2019GC008440), pp. 1–29.
 
 <h4>Project: Investigating air-sea interactions (PI: Heini Wernli)</h4>
-Thurnherr, I., Kozachek, A., Graf, P., Weng, Y., Bolshiyanov, D., Landwehr, S., Pfahl, S., Schmale, J., Sodemann, H., Steen-Larsen, H. C., Toffoli, A., Wernli, H., and Aemisegger, F. (2020) <a href="https://doi.org/10.5194/acp-20-5811-2020">Meridional and vertical variations of the water vapour isotopic composition in the marine boundary layer over the Atlantic and Southern Ocean.</a> <em>Atmos. Chem. Phys.</em>, 20, 5811–5835.
+Thurnherr, I., Kozachek, A., Graf, P., Weng, Y., Bolshiyanov, D., Landwehr, S., Pfahl, S., Schmale, J., Sodemann, H., Steen-Larsen, H. C., Toffoli, A., Wernli, H., and Aemisegger, F. (2020) <a href="https://doi.org/10.5194/acp-20-5811-2020">Meridional and vertical variations of the water vapour isotopic composition in the marine boundary layer over the Atlantic and Southern Ocean.</a> <em>Atmos. Chem. Phys.</em>, 20, pp. 5811–5835.
 
 <h4>Project: Understanding the plankton's strategy to survive (PI: Michael Ellwood)</h4>
-Hasenfratz, A. P., Jaccard, S. L., Martínez-García, A., Sigman, D. M., Hodell, D. A., Vance, D., Bernasconi, S. M., Kleiven, H. F., Haumann, A. F. and Haug, G. H. (2019). <a href="https://doi.org/10.1126/science.aat7067">The residence time of Southern Ocean surface waters and the 100,000-year ice age cycle</a>. <em>Science</em>, 363, 1080–1084.
+Hasenfratz, A. P., Jaccard, S. L., Martínez-García, A., Sigman, D. M., Hodell, D. A., Vance, D., Bernasconi, S. M., Kleiven, H. F., Haumann, A. F. and Haug, G. H. (2019). <a href="https://doi.org/10.1126/science.aat7067">The residence time of Southern Ocean surface waters and the 100,000-year ice age cycle</a>. <em>Science</em>, 363, pp. 1080–1084.
 
 Janssen, D.J., Sieber, M., Ellwood, M.J., Conway, T.M., Barrett, P.M., Chen, X., de Souza, G.F., Hassler, C.S. and Jaccard, S.L. (2020). <a href="https://doi.org/10.1016/j.marchem.2020.103773">Trace metal and nutrient dynamics across broad biogeochemical gradients in the Indian and Pacific sectors of the Southern Ocean. Marine Chemistry</a>. <em>Marine Chemistry</em>.
 
@@ -54,9 +57,9 @@ Sieber, M., Conway, T. M., Souza, G. F. De, Hassler, C. S., Ellwood, M. J. and V
 <h4>Project: Observing interactions between winds, waves, currents and ice (PI: Alessandro Toffoli)</h4>
 Alberello, A., Bennetts, L., Heil, P., Eayrs, C., Vichi, M., MacHutchon, K., Onorato, M. and Toffoli, A. (2020). <a href="https://doi.org/10.1029/2019JC015418">Drift of Pancake Ice Floes in the Winter Antarctic Marginal Ice Zone During Polar Cyclones.</a> <em>Journal of Geophysical Research: Oceans</em>, 125(3), pp. 1–16.
 
-Alberello, A., Onorato, M., Bennetts, L., Vichi, M., Eayrs, C., MacHutchon, K. and Toffoli, A. (2019). <a href="https://doi.org/10.5194/tc-13-41-2019">Brief communication: Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone.</a> <em>The Cryosphere</em>, 13, 41-48.
+Alberello, A., Onorato, M., Bennetts, L., Vichi, M., Eayrs, C., MacHutchon, K. and Toffoli, A. (2019). <a href="https://doi.org/10.5194/tc-13-41-2019">Brief communication: Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone.</a> <em>The Cryosphere</em>, 13, pp. 41-48.
 
-Dolatshah, A., Nelli, F., Bennetts, L., Meylan, M., Alberello, A., Monty, J. and Toffoli, A.. (2018). <a href="https://doi.org/10.1063/1.5050262">Hydroelastic interactions between water waves and floating freshwater ice</a>. <em>Physics of Fluids</em>, 30, 091702.
+Dolatshah, A., Nelli, F., Bennetts, L., Meylan, M., Alberello, A., Monty, J. and Toffoli, A.. (2018). <a href="https://doi.org/10.1063/1.5050262">Hydroelastic interactions between water waves and floating freshwater ice</a>. <em>Physics of Fluids</em>, 30, p. 091702.
 
 Vichi, M., Eayrs, C., Alberello, A., Bekker, A., Bennetts, L., Holland, D., de Jong, E., Joubert, W., MacHutchon, K., Messori, G., Mojica, JF., Onorato, M., Saunders, C., Skatulla, S. and Toffoli, A. (2019). <a href="https://doi.org/10.1029/2019GL082457">Effects of an Explosive Polar Cyclone Crossing the Antarctic Marginal Ice Zone</a>. <em>Geophysical Research Letters</em>, 46(11):5948-5958.
 
