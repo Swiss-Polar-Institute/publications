@@ -102,4 +102,5 @@ Wang, P., D’Imperio, L., Liu, B., Tian, Q., Jia, Z., Ambus, P., Rasch, M. and 
 <h4>Project: ACE-DATA: Antarctic Circumnavigation Expedition: Delivering Added value To Antarctica (PI: Philippe Gillet)</h4>
 Landwehr, S., Thurnherr, I., Cassar, N., Gysel-Beer, M. and Schmale, J. (2020). <a href="https://doi.org/10.5194/amt-13-3487-2020">Using global reanalysis data to quantify and correct airflow distortion bias in shipborne wind speed measurements</a>. <em>Atmospheric Measurement Techniques Discussions</em>, pp. 1–26.
 
-Last updated on 8th September 2020
+
+Last updated on 16 November 2020
