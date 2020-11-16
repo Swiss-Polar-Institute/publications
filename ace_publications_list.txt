@@ -36,7 +36,7 @@ Thomas, S. A. L., Sanchez, A., Kee, Y., Wilson, N. G., Baker, B. J. and Palmer, 
 
 <h4>Project: Measuring phytoplankton abundance and composition (PI: Sarah E. Fawcett)</h4>
 
-Puccinelli, E., Smart, S. M. and Fawcett, S. E. (2020). <a href="https://doi.org/10.1016/j.dsr.2020.103340>Temporal variability in the trophic composition of benthic invertebrates in the Indian Sub-Antarctic Ocean</a>, <em>Deep Sea Research Part I: Oceanographic Research Papers</em>, 163, p. 103340.
+Puccinelli, E., Smart, S. M. and Fawcett, S. E. (2020). <a href="https://doi.org/10.1016/j.dsr.2020.103340">Temporal variability in the trophic composition of benthic invertebrates in the Indian Sub-Antarctic Ocean</a>, <em>Deep Sea Research Part I: Oceanographic Research Papers</em>, 163, p. 103340.
 
 Smart, S. M., Fawcett, S. E., Ren, H., Schiebel, R., Tompkins, E. M., Martínez-García, A., Stirnimann, L., Roychoudhury, A., Haug, G. H. and Sigman, D. M. (2020). <a href="http://doi.org/10.1029/2019GC008440">The Nitrogen Isotopic Composition of Tissue and Shell ‐ Bound Organic Matter of Planktic Foraminifera in Southern Ocean Surface Waters.</a> <em>Geochemistry, Geophysics, Geosystems</em>, 21(e2019GC008440), pp. 1–29.
 
