@@ -76,11 +76,12 @@ Tirelli V., Suaria G. and Lusher A.L. (2020). <a href="https://doi.org/10.1007/9
 Waller, C.L., Griffiths, H.J., Waluda, C.M., Thorpe S.E., Loaiza, I., Moreno, B., Pacherres, C.O., Ryan P.G., Suaria, G., Isobe, A. and Hughes, K.A. (2018). <a href="https://doi.org/10.18124/D4JK8V">Microplastics in the Southern Ocean</a>. <em>Antarctic Environments Portal.</em>
 
 <h4>Project: Monitoring of threatened albatrosses and penguins (PI: Henri Weimerskirch)</h4>
-Weimerskirch, H., Le Bouard, F., Ryan, P.G. and Bost, C.-A. (2018). <a href="https://doi.org/10.1017/S0954102018000226">Massive decline of one of the world’s largest penguin colonies: the king penguin colony at Ile aux Cochons, Crozet</a>. <em>Antarctic Science.</em>
+
+Ryan, P. G., Le Bouard, F. and Lee, J. (2017). <a href="https://doi.org/10.1007/s00300-017-2146-8">Westward range extension of Short-tailed Shearwaters <em>Ardenna tenuirostris</em> in the Southern Ocean</a>. <em>Polar Biology</em>, 40 (11), 2323-2327.
 
 Weimerskirch, H., Delord, K., Barbraud, C., Le Bouard, F., Ryan, P.G., Fretwell, P. and Marteau, C. (2018). <a href="https://doi.org/10.1007/s00300-018-2335-0">Status and trends of albatrosses in the French Southern Territories, western Indian Ocean</a>. <em>Polar Biology</em>.
 
-Ryan, P. G., Le Bouard, F. and Lee, J. (2017). <a href="https://doi.org/10.1007/s00300-017-2146-8">Westward range extension of Short-tailed Shearwaters <em>Ardenna tenuirostris</em> in the Southern Ocean</a>. <em>Polar Biology</em>, 40 (11), 2323-2327.
+Weimerskirch, H., Le Bouard, F., Ryan, P.G. and Bost, C.-A. (2018). <a href="https://doi.org/10.1017/S0954102018000226">Massive decline of one of the world’s largest penguin colonies: the king penguin colony at Ile aux Cochons, Crozet</a>. <em>Antarctic Science.</em>
 
 <h4>Project: Measuring the changes in the ocean’s capacity to absorb CO2 (PI: Dominic Hodgson)</h4>
 Pinseel, E., Janssens, S.B., Verleyen, E., Vanormelingen, P., Kohler, T. J., Biersma, E. M., Sabbe, K., Vijver, B. Van De and Vyverman, W. (2020). <a href="https://doi.org/10.1038/s41467-020-16181-0">Global radiation in a rare biosphere soil diatom</a>. <em>Nat Commun</em> 11, 2382.
