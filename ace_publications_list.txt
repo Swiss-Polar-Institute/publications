@@ -96,6 +96,9 @@ Rodríguez-Ros, P., Cortés, P., Robinson, C.M., Nunes, S., Hassler, C., Royer, 
 
 Rodríguez-Ros, P., Galí, M., Cortés, P., Robinson, C.M., Antoine, D., Wohl, C., Yang, M.X. and Simó, R. (2020). <a href="https://doi.org/10.1029/2020GL087888">Remote sensing retrieval of isoprene concentrations in the Southern Ocean</a>. <em>Geophysical Research Letters</em>.  
 
+<h4>Acoustic mapping of endangered Southern Ocean whales (PI: Brian Miller)</h4>
+Calderan, S., Black, A., Branch, T.A., Collins, M.A., Kelly, N., Leaper, R., Lurcock, S., Miller, B.S., Moore, M., Olson, P.A., Širović, A., Wood, A.G. and Jackson, J.A. (2020). <a href="https://doi.org/10.3354/esr01077">South Georgia blue whales five decades after the end of whaling</a>. <em>Endangered Species Research</em>, 43, pp. 359–373.
+
 <h4>Project: Investigating methane in sediment cores in the vicinity of penguin colonies (PI: Morton Rasch)</h4>
 Wang, P., D’Imperio, L., Liu, B., Tian, Q., Jia, Z., Ambus, P., Rasch, M. and Elberling, B. (2019). <a href="https://doi.org/10.1016/j.soilbio.2019.02.002">Sea animal activity controls CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emission hotspots on South Georgia, sub-Antarctica</a>. <em>Soil Biology and Biochemistry</em>. Elsevier, 132(January), pp. 174–186.
 
