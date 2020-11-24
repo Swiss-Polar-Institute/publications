@@ -2,108 +2,126 @@
 
 <h4>Project: Measuring phytoplankton abundance and composition (PI: David Antoine)</h4>
 Moutier, W., Thomalla, S. J., Bernard, S., Wind, G., Ryan-keogh, T. J. and Smith, M. E. (2019). <a href="https://doi.org/10.3390/rs11151793">Evaluation of Chlorophyll-a and POC MODIS Aqua Products in the Southern Ocean.</a> <em>Remote Sensing</em>, 11(1793), pp. 1–18.
+<br>
+
 <h4>Project: Studying Biodiversity in the Antarctic (PI: Steven L Chown)</h4>
 Baird, H. P., Janion‐Scheepers, C., Stevens, M. I., Leihy, R. I. and Chown, S. L. (2019). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13639">The ecological biogeography of indigenous and introduced Antarctic springtails.</a> <em>Journal of Biogeography</em>, 00:1-15.
-
+<br>
 Leihy, R. I., Duffy, G. A. and Chown, S. L. (2018). <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.2358">Species richness and turnover among indigenous and introduced plants and insects of the Southern Ocean Islands</a>. <em>Ecosphere</em>, 9(7).
-
+<br>
 Leihy, R. I., Duffy, G. A., Nortje, E. and Chown, S. L. (2018). <a href="https://doi.org/10.1038/sdata.2018.177">High resolution temperature data for ecological research and management on the Southern Ocean Islands</a>. <em>Scientific Data</em>, 5, 180177.
+<br>
 
 <h4>Project: Evaluating carbon storage capacity in seabed organism (PI: David K Barnes)</h4>
 Barnes, D. K. A., Fleming, A., Sands, C. J., Quartino, M. L. and Deregibus, D. (2018). <a href="http://rsta.royalsocietypublishing.org/content/376/2122/20170176">Icebergs, sea ice, blue carbon and Antarctic climate feedbacks.</a> <em>Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences</em>, 376(2122).
-<h4>Project: Uncovering the mystery of the ocean’s “False bottom” (PI: Andrew Brierley)</h4>
+<br>
 
+<h4>Project: Uncovering the mystery of the ocean’s “False bottom” (PI: Andrew Brierley)</h4>
 Le Guen, C., Suaria, G., Sherley, R., Ryan, P.G., Aliani, S., Boehme L. and Brierley, A.S. (2019). <a href="https://doi.org/10.1016/j.envint.2019.105303">Microplastic study reveals the presence of natural and synthetic fibres in the diet of King Penguins (<em>Aptenodytes patagonicus</em>) foraging from South Georgia</a>. <em>Environment International</em>, 134:105303.
+<br>
+
 <h4>Project: Reading Antarctic's past in ice cores (PI: Elizabeth Thomas)</h4>
 King, A. C. F., Thomas, E. R., Pedro, J. B., Markle, B., Potocki, M., Jackson, S. L., Wolff, E. and Kalberer, M. (2019). <a href="https://doi.org/10.1029/2019GL084249">Organic compounds in a sub‐Antarctic ice core: A potential suite of sea ice markers</a>. <em>Geophysical Research Letters</em>, 46.
+<br>
 
 <h4>Project: Antarctica to reveal pre-industrial atmosphere (PI: Julia Schmale)</h4>
 Efraim, A., Rosenfeld, D., Schmale, J., and Zhu, Y. (2020). <a href="https://doi.org/10.1029/2020JD032409">Satellite retrieval of cloud condensation nuclei concentrations in marine stratocumulus by using clouds as CCN chambers.</a> <em>Journal of Geophysical Research: Atmospheres</em>, 125, e2020JD032409.
-
+<br>
 Landwehr, S., Schmale, J. and Walton, D. W. H. (2019). <a href="https://doi.org/10.1029/2019EO118919">Connecting the Southern Ocean with clouds.</a> <em>Eos</em>, 100.
-
-Regayre, L. A., Schmale, J., Johnson, J. S., Tatzelt, C., Baccarini, A., Henning, S., Yoshioka, M., Stratmann, F., Gysel-Beer, M., Grosvenor, D. P., and Carslaw, K. S. (2020). <a href="https://doi.org/10.5194/acp-20-10063-2020">The value of remote marine aerosol measurements for constraining radiative forcing uncertainty.</a> <em>Atmospheric Chemistry and Physics</em>, 20(16), 10063–10072. 
-
+<br>
+Regayre, L. A., Schmale, J., Johnson, J. S., Tatzelt, C., Baccarini, A., Henning, S., Yoshioka, M., Stratmann, F., Gysel-Beer, M., Grosvenor, D. P., and Carslaw, K. S. (2020). <a href="https://doi.org/10.5194/acp-20-10063-2020">The value of remote marine aerosol measurements for constraining radiative forcing uncertainty.</a> <em>Atmospheric Chemistry and Physics</em>, 20(16), 10063–10072.
+<br>
 Schmale, J., Baccarini, A., Thurnherr, I., Henning, S., Efraim, A., Regayre, L., Bolas, C., Hartmann, M., Welti, A., Lehtipalo, K., Aemisegger, F., Tatzelt, C., Landwehr, S., Modini, R. L., Tummon, F., Johnson, J., Harris, N., Schnaiter, M., Toffoli, A., Derkani, M., Bukowiecki, N., Stratmann, F., Dommen, J., Baltensperger, U., Wernli, H., Rosenfeld, D., Gysel-Beer, M. and Carslaw, K. (2019). <a href="https://doi.org/10.1175/BAMS-D-18-0187.1">Overview of the Antarctic Circumnavigation Expedition: Study of Preindustrial-like Aerosols and Their Climate Effects (ACE-SPACE)</a>. <em>Bulletin of the American Meteorological Society</em>.
+<br>
+
 <h4>Project: Testing the diversity of marine refugia on sub-Antarctic islands (PI: Nerida Wilson)</h4>
 Lau, S. C. Y., Wilson, N. G., Silva, C. N. S. and Strugnell, J. M. (2020). <a href="http://doi.org/10.1111/ecog.04951">Detecting glacial refugia in the Southern Ocean.</a> <em>Ecography</em>, 43, pp. 1–18.
-
+<br>
 Layton, K. K. S., Rouse, G. W. and Wilson, N. G. (2019). <a href="https://doi.org/10.1186/s12862-019-1499-8">A newly discovered radiation of endoparasitic gastropods and their coevolution with asteroid hosts in Antarctica</a>. <em>BMC Evolutionary Biology</em>, 19(180), pp. 1–15.
-
+<br>
 Strugnell, J. M., Pedro, J. B., and Wilson, N. G. (2018). <a href="https://doi.org/10.1016/j.quascirev.2017.11.014">Dating Antarctic ice sheet collapse: Proposing a molecular genetic approach</a>. <em>Quaternary Science Reviews</em>, 179, pp. 153–157.
-
+<br>
 Thomas, S. A. L., Sanchez, A., Kee, Y., Wilson, N. G., Baker, B. J. and Palmer, B. (2019). <a href="https://doi.org/10.3390/md17090513">Bathyptilones: Terpenoids from an Antarctic Sea Pen, Anthoptilum grandiflorum (Verrill, 1879).</a> <em>Marine drugs</em>, 17(513), pp. 1–13.
+<br>
 
 <h4>Project: Measuring phytoplankton abundance and composition (PI: Sarah E. Fawcett)</h4>
-
 Puccinelli, E., Smart, S. M. and Fawcett, S. E. (2020). <a href="https://doi.org/10.1016/j.dsr.2020.103340">Temporal variability in the trophic composition of benthic invertebrates in the Indian Sub-Antarctic Ocean</a>, <em>Deep Sea Research Part I: Oceanographic Research Papers</em>, 163, p. 103340.
-
+<br>
 Smart, S. M., Fawcett, S. E., Ren, H., Schiebel, R., Tompkins, E. M., Martínez-García, A., Stirnimann, L., Roychoudhury, A., Haug, G. H. and Sigman, D. M. (2020). <a href="http://doi.org/10.1029/2019GC008440">The Nitrogen Isotopic Composition of Tissue and Shell ‐ Bound Organic Matter of Planktic Foraminifera in Southern Ocean Surface Waters.</a> <em>Geochemistry, Geophysics, Geosystems</em>, 21(e2019GC008440), pp. 1–29.
+<br>
 
 <h4>Project: Investigating air-sea interactions (PI: Heini Wernli)</h4>
 Thurnherr, I., Kozachek, A., Graf, P., Weng, Y., Bolshiyanov, D., Landwehr, S., Pfahl, S., Schmale, J., Sodemann, H., Steen-Larsen, H. C., Toffoli, A., Wernli, H., and Aemisegger, F. (2020) <a href="https://doi.org/10.5194/acp-20-5811-2020">Meridional and vertical variations of the water vapour isotopic composition in the marine boundary layer over the Atlantic and Southern Ocean.</a> <em>Atmos. Chem. Phys.</em>, 20, pp. 5811–5835.
+<br>
 
 <h4>Project: Understanding the plankton's strategy to survive (PI: Michael Ellwood)</h4>
 Hasenfratz, A. P., Jaccard, S. L., Martínez-García, A., Sigman, D. M., Hodell, D. A., Vance, D., Bernasconi, S. M., Kleiven, H. F., Haumann, A. F. and Haug, G. H. (2019). <a href="https://doi.org/10.1126/science.aat7067">The residence time of Southern Ocean surface waters and the 100,000-year ice age cycle</a>. <em>Science</em>, 363, pp. 1080–1084.
-
+<br>
 Janssen, D.J., Sieber, M., Ellwood, M.J., Conway, T.M., Barrett, P.M., Chen, X., de Souza, G.F., Hassler, C.S. and Jaccard, S.L. (2020). <a href="https://doi.org/10.1016/j.marchem.2020.103773">Trace metal and nutrient dynamics across broad biogeochemical gradients in the Indian and Pacific sectors of the Southern Ocean. Marine Chemistry</a>. <em>Marine Chemistry</em>.
-
+<br>
 Rickli, J., Janssen, D. J., Hassler, C., Ellwood, M. J. and Jaccard, S. L. (2019). <a href="https://doi.org/10.1016/j.gca.2019.07.033">Chromium biogeochemistry and stable isotope distribution in the Southern Ocean</a>. <em>Geochimica et Cosmochimica</em> Acta. Vol. 262, pp. 188–206.
-
+<br>
 Sieber, M., Conway, T. M., Souza, G. F. De, Hassler, C. S., Ellwood, M. J. and Vance, D. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S0012821X19304911">High-resolution Cd isotope systematics in multiple zones of the Southern Ocean from the Antarctic Circumnavigation Expedition</a>. <em>Earth and Planetary Science Letters</em>. Elsevier B.V., 527, p. 115799.
-
+<br>
 Sieber, M., Conway, T. M., Souza, G. F. De, Hassler, C. S., Ellwood, M. J. and Vance, D. (2020).<a href="http://doi.org/10.1016/j.gca.2019.09.039"> Cycling of zinc and its isotopes across multiple zones of the Southern Ocean: Insights from the Antarctic Circumnavigation Expedition.</a> <em>Geochimica et Cosmochimica Acta</em>. Elsevier Ltd, 268, pp. 310–324.
+<br>
 
 <h4>Project: Observing interactions between winds, waves, currents and ice (PI: Alessandro Toffoli)</h4>
 Alberello, A., Bennetts, L., Heil, P., Eayrs, C., Vichi, M., MacHutchon, K., Onorato, M. and Toffoli, A. (2020). <a href="https://doi.org/10.1029/2019JC015418">Drift of Pancake Ice Floes in the Winter Antarctic Marginal Ice Zone During Polar Cyclones.</a> <em>Journal of Geophysical Research: Oceans</em>, 125(3), pp. 1–16.
-
+<br>
 Alberello, A., Onorato, M., Bennetts, L., Vichi, M., Eayrs, C., MacHutchon, K. and Toffoli, A. (2019). <a href="https://doi.org/10.5194/tc-13-41-2019">Brief communication: Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone.</a> <em>The Cryosphere</em>, 13, pp. 41-48.
-
+<br>
 Dolatshah, A., Nelli, F., Bennetts, L., Meylan, M., Alberello, A., Monty, J. and Toffoli, A.. (2018). <a href="https://doi.org/10.1063/1.5050262">Hydroelastic interactions between water waves and floating freshwater ice</a>. <em>Physics of Fluids</em>, 30, p. 091702.
-
+<br>
 Vichi, M., Eayrs, C., Alberello, A., Bekker, A., Bennetts, L., Holland, D., de Jong, E., Joubert, W., MacHutchon, K., Messori, G., Mojica, JF., Onorato, M., Saunders, C., Skatulla, S. and Toffoli, A. (2019). <a href="https://doi.org/10.1029/2019GL082457">Effects of an Explosive Polar Cyclone Crossing the Antarctic Marginal Ice Zone</a>. <em>Geophysical Research Letters</em>, 46(11):5948-5958.
+<br>
 
 <h4>Project: The impact of microplastic pollution on the food web (PI: Peter Ryan)</h4>
 Fraser, C.I., Morrison, A.K., van Sebille, E., Macaya, E.C., Hogg, A.M., Ryan, P.G., Padovan, A., Jack, C., Valdivia, N. and Waters, J.M. (2018). <a href="https://doi.org/10.1038/s41558-018-0209-7">Antarctica’s ecological isolation will be broken by storm-driven dispersal and warming</a>. <em>Nature Climate Change</em> 8:704-708.
-
+<br>
 Le Guen, C., Suaria, G., Sherley, R., Ryan, P.G., Aliani, S., Boehme L. and Brierley, A.S. (2019). <a href="https://doi.org/10.1016/j.envint.2019.105303">Microplastic study reveals the presence of natural and synthetic fibres in the diet of King Penguins (<em>Aptenodytes patagonicus</em>) foraging from South Georgia</a>. <em>Environment International</em>, 134:105303.
-
+<br>
 Ryan, P.G., Suaria, G., Perold, V., Pierucci, A., Bornman, T.G. and Aliani, S. (2019). <a href="https://doi.org/10.1016/j.envpol.2019.113413">Sampling microfibres at the sea surface: The effects of mesh size, filtered volume and water depth</a>. <em>Environmental Pollution</em>, 113413.
-
-Suaria, G., Achtypi, A., Perold, V., Lee J.R., Pierucci, A., Bornman, T., Aliani, S., Ryan, P.G. (2020). <a href="https://doi.org/10.1126/sciadv.aay8493">Microfibers in oceanic surface waters: a global characterization</a>. <em>Science Advances</em>, 6(23), pp. 1-9. 
-
+<br>
+Suaria, G., Achtypi, A., Perold, V., Lee J.R., Pierucci, A., Bornman, T., Aliani, S., Ryan, P.G. (2020). <a href="https://doi.org/10.1126/sciadv.aay8493">Microfibers in oceanic surface waters: a global characterization</a>. <em>Science Advances</em>, 6(23), pp. 1-9.
+<br>
 Suaria, G., Perold, V., Lee, J. R., Le Bouard, F., Aliani, S., Ryan, P. G., Sciences, M. and Spezia, L. (2020). <a href="http://doi.org/10.1016/j.envint.2020.105494">Floating macro- and microplastics around the Southern Ocean : Results from the Antarctic Circumnavigation Expedition.</a> <em>Environment International</em>. Elsevier, 136(September 2019), p. 105494.
-
+<br>
 Tirelli V., Suaria G. and Lusher A.L. (2020). <a href="https://doi.org/10.1007/978-3-030-10618-8_4-1">Microplastics in Polar Samples</a>. In: Rocha-Santos T., Costa M., Mouneyrac C. (eds) Handbook of Microplastics in the Environment. Springer, Cham.
-
+<br>
 Waller, C.L., Griffiths, H.J., Waluda, C.M., Thorpe S.E., Loaiza, I., Moreno, B., Pacherres, C.O., Ryan P.G., Suaria, G., Isobe, A. and Hughes, K.A. (2018). <a href="https://doi.org/10.18124/D4JK8V">Microplastics in the Southern Ocean</a>. <em>Antarctic Environments Portal.</em>
+<br>
 
 <h4>Project: Monitoring of threatened albatrosses and penguins (PI: Henri Weimerskirch)</h4>
-
 Ryan, P. G., Le Bouard, F. and Lee, J. (2017). <a href="https://doi.org/10.1007/s00300-017-2146-8">Westward range extension of Short-tailed Shearwaters <em>Ardenna tenuirostris</em> in the Southern Ocean</a>. <em>Polar Biology</em>, 40 (11), 2323-2327.
-
+<br>
 Ryan, P. G., Lee, J. R. and Bouard, F. L. (2020). <a href="https://doi/org/10.1017/S0954102019000427">Moult intensity in blue petrels and a key moult site off West Antarctica</a>. <em>Antarctic Science</em>, 32(1), 1–9.
-
+<br>
 Weimerskirch, H., Delord, K., Barbraud, C., Le Bouard, F., Ryan, P.G., Fretwell, P. and Marteau, C. (2018). <a href="https://doi.org/10.1007/s00300-018-2335-0">Status and trends of albatrosses in the French Southern Territories, western Indian Ocean</a>. <em>Polar Biology</em>.
-
+<br>
 Weimerskirch, H., Le Bouard, F., Ryan, P.G. and Bost, C.-A. (2018). <a href="https://doi.org/10.1017/S0954102018000226">Massive decline of one of the world’s largest penguin colonies: the king penguin colony at Ile aux Cochons, Crozet</a>. <em>Antarctic Science.</em>
+<br>
 
 <h4>Project: Measuring the changes in the ocean’s capacity to absorb CO2 (PI: Dominic Hodgson)</h4>
 Pinseel, E., Janssens, S.B., Verleyen, E., Vanormelingen, P., Kohler, T. J., Biersma, E. M., Sabbe, K., Vijver, B. Van De and Vyverman, W. (2020). <a href="https://doi.org/10.1038/s41467-020-16181-0">Global radiation in a rare biosphere soil diatom</a>. <em>Nat Commun</em> 11, 2382.
+<br>
 
 <h4>Project: Surveying Organic Reactive gases and Particles Across the Surface Southern Ocean (PI: Rafel Simó)</h4>
 Rodríguez-Ros, P., Cortés, P., Robinson, C.M., Nunes, S., Hassler, C., Royer, S.-J., Estrada, M., Sala, M.M. and Simó, R. (2020). <a href="https://doi.org/10.3390/atmos11060556">Distribution and drivers of marine isoprene concentration across the Southern Ocean</a>. <em>Atmosphere</em>, 11, 556.
-
-Rodríguez-Ros, P., Galí, M., Cortés, P., Robinson, C.M., Antoine, D., Wohl, C., Yang, M.X. and Simó, R. (2020). <a href="https://doi.org/10.1029/2020GL087888">Remote sensing retrieval of isoprene concentrations in the Southern Ocean</a>. <em>Geophysical Research Letters</em>.  
+<br>
+Rodríguez-Ros, P., Galí, M., Cortés, P., Robinson, C.M., Antoine, D., Wohl, C., Yang, M.X. and Simó, R. (2020). <a href="https://doi.org/10.1029/2020GL087888">Remote sensing retrieval of isoprene concentrations in the Southern Ocean</a>. <em>Geophysical Research Letters</em>.
+<br>
 
 <h4>Acoustic mapping of endangered Southern Ocean whales (PI: Brian Miller)</h4>
 Calderan, S., Black, A., Branch, T.A., Collins, M.A., Kelly, N., Leaper, R., Lurcock, S., Miller, B.S., Moore, M., Olson, P.A., Širović, A., Wood, A.G. and Jackson, J.A. (2020). <a href="https://doi.org/10.3354/esr01077">South Georgia blue whales five decades after the end of whaling</a>. <em>Endangered Species Research</em>, 43, pp. 359–373.
+<br>
 
 <h4>Project: Investigating methane in sediment cores in the vicinity of penguin colonies (PI: Morton Rasch)</h4>
 Wang, P., D’Imperio, L., Liu, B., Tian, Q., Jia, Z., Ambus, P., Rasch, M. and Elberling, B. (2019). <a href="https://doi.org/10.1016/j.soilbio.2019.02.002">Sea animal activity controls CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emission hotspots on South Georgia, sub-Antarctica</a>. <em>Soil Biology and Biochemistry</em>. Elsevier, 132(January), pp. 174–186.
+<br>
 
 <h4>Project: ACE-DATA: Antarctic Circumnavigation Expedition: Delivering Added value To Antarctica (PI: Philippe Gillet)</h4>
 Landwehr, S., Thurnherr, I., Cassar, N., Gysel-Beer, M. and Schmale, J. (2020). <a href="https://doi.org/10.5194/amt-13-3487-2020">Using global reanalysis data to quantify and correct airflow distortion bias in shipborne wind speed measurements</a>. <em>Atmospheric Measurement Techniques Discussions</em>, pp. 1–26.
-
+<br>
 
 Last updated on 24 November 2020
