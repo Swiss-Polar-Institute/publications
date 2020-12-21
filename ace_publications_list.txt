@@ -22,6 +22,7 @@
 <p>Landwehr, S., Schmale, J. and Walton, D. W. H. (2019). <a href="https://doi.org/10.1029/2019EO118919">Connecting the Southern Ocean with clouds.</a> <em>Eos</em>, 100.</p>
 <p>Regayre, L. A., Schmale, J., Johnson, J. S., Tatzelt, C., Baccarini, A., Henning, S., Yoshioka, M., Stratmann, F., Gysel-Beer, M., Grosvenor, D. P., and Carslaw, K. S. (2020). <a href="https://doi.org/10.5194/acp-20-10063-2020">The value of remote marine aerosol measurements for constraining radiative forcing uncertainty.</a> <em>Atmospheric Chemistry and Physics</em>, 20(16), 10063–10072.</p>
 <p>Schmale, J., Baccarini, A., Thurnherr, I., Henning, S., Efraim, A., Regayre, L., Bolas, C., Hartmann, M., Welti, A., Lehtipalo, K., Aemisegger, F., Tatzelt, C., Landwehr, S., Modini, R. L., Tummon, F., Johnson, J., Harris, N., Schnaiter, M., Toffoli, A., Derkani, M., Bukowiecki, N., Stratmann, F., Dommen, J., Baltensperger, U., Wernli, H., Rosenfeld, D., Gysel-Beer, M. and Carslaw, K. (2019). <a href="https://doi.org/10.1175/BAMS-D-18-0187.1">Overview of the Antarctic Circumnavigation Expedition: Study of Preindustrial-like Aerosols and Their Climate Effects (ACE-SPACE)</a>. <em>Bulletin of the American Meteorological Society</em>.</p>
+<p>Welti, A., Bigg, E. K., DeMott, P. J., Gong, X., Hartmann, M., Harvey, M., Henning, S., Herenz, P., Hill, T. C. J., Hornblow, B., Leck, C., Löffler, M., McCluskey, C. S., Rauker, A. M., Schmale, J., Tatzelt, C., van Pinxteren, M. and Stratmann, F. (2020) <a href="https://doi.org/10.5194/acp-20-15191-2020">Ship-based measurements of ice nuclei concentrations over the Arctic, Atlantic, Pacific and Southern oceans.</a> <em>Atmospheric Chemistry and Physics</em>, 20(23), pp. 15191–15206.</p>
 
 <h4>Project: Testing the diversity of marine refugia on sub-Antarctic islands (PI: Nerida Wilson)</h4>
 <p>Lau, S. C. Y., Wilson, N. G., Silva, C. N. S. and Strugnell, J. M. (2020). <a href="http://doi.org/10.1111/ecog.04951">Detecting glacial refugia in the Southern Ocean.</a> <em>Ecography</em>, 43, pp. 1–18.</p>
@@ -66,7 +67,6 @@
 
 <h4>Project: Measuring the changes in the ocean’s capacity to absorb CO2 (PI: Dominic Hodgson)</h4>
 <p>Perren, B. B., Hodgson, D. A., Roberts, S. J., Sime, L., Van Nieuwenhuyze, A., Verleyen, E. and Vyverman, W. (2020). <a href="https://doi.org/10.1038/s43247-020-00059-6">Southward migration of the Southern Hemisphere westerly winds corresponds with warming climate over centennial timescales.</a> <em>Communications Earth & Environment</em>, 1(1), p.58.</p>
-
 <p>Pinseel, E., Janssens, S. B., Verleyen, E., Vanormelingen, P., Kohler, T. J., Biersma, E. M., Sabbe, K., Vijver, B. Van De and Vyverman, W. (2020). <a href="https://doi.org/10.1038/s41467-020-16181-0">Global radiation in a rare biosphere soil diatom</a>. <em>Nat Commun</em> 11, 2382.</p>
 
 <h4>Project: Surveying Organic Reactive gases and Particles Across the Surface Southern Ocean (PI: Rafel Simó)</h4>
