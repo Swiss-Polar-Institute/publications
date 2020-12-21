@@ -65,7 +65,9 @@
 <p>Weimerskirch, H., Le Bouard, F., Ryan, P.G. and Bost, C.-A. (2018). <a href="https://doi.org/10.1017/S0954102018000226">Massive decline of one of the world’s largest penguin colonies: the king penguin colony at Ile aux Cochons, Crozet</a>. <em>Antarctic Science.</em></p>
 
 <h4>Project: Measuring the changes in the ocean’s capacity to absorb CO2 (PI: Dominic Hodgson)</h4>
-<p>Pinseel, E., Janssens, S.B., Verleyen, E., Vanormelingen, P., Kohler, T. J., Biersma, E. M., Sabbe, K., Vijver, B. Van De and Vyverman, W. (2020). <a href="https://doi.org/10.1038/s41467-020-16181-0">Global radiation in a rare biosphere soil diatom</a>. <em>Nat Commun</em> 11, 2382.</p>
+<p>Perren, B. B., Hodgson, D. A., Roberts, S. J., Sime, L., Van Nieuwenhuyze, A., Verleyen, E. and Vyverman, W. (2020). <a href="https://doi.org/10.1038/s43247-020-00059-6">Southward migration of the Southern Hemisphere westerly winds corresponds with warming climate over centennial timescales.</a> <em>Communications Earth & Environment</em>, 1(1), p.58.</p>
+
+<p>Pinseel, E., Janssens, S. B., Verleyen, E., Vanormelingen, P., Kohler, T. J., Biersma, E. M., Sabbe, K., Vijver, B. Van De and Vyverman, W. (2020). <a href="https://doi.org/10.1038/s41467-020-16181-0">Global radiation in a rare biosphere soil diatom</a>. <em>Nat Commun</em> 11, 2382.</p>
 
 <h4>Project: Surveying Organic Reactive gases and Particles Across the Surface Southern Ocean (PI: Rafel Simó)</h4>
 <p>Rodríguez-Ros, P., Cortés, P., Robinson, C.M., Nunes, S., Hassler, C., Royer, S.-J., Estrada, M., Sala, M.M. and Simó, R. (2020). <a href="https://doi.org/10.3390/atmos11060556">Distribution and drivers of marine isoprene concentration across the Southern Ocean</a>. <em>Atmosphere</em>, 11, 556.</p>
@@ -81,4 +83,4 @@
 <p>Landwehr, S., Thurnherr, I., Cassar, N., Gysel-Beer, M. and Schmale, J. (2020). <a href="https://doi.org/10.5194/amt-13-3487-2020">Using global reanalysis data to quantify and correct airflow distortion bias in shipborne wind speed measurements</a>. <em>Atmospheric Measurement Techniques Discussions</em>, pp. 1–26.</p>
 
 <br>
-Last updated on 24 November 2020
+Last updated on 21 December 2020
