@@ -5,6 +5,7 @@
 
 <h4>Project: Studying Biodiversity in the Antarctic (PI: Steven L Chown)</h4>
 <p>Baird, H. P., Janion‐Scheepers, C., Stevens, M. I., Leihy, R. I. and Chown, S. L. (2019). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13639">The ecological biogeography of indigenous and introduced Antarctic springtails.</a> <em>Journal of Biogeography</em>, 00:1-15.</p>
+<p>Leihy, R. I. and Chown, S. L. (2020). <a href="https://doi.org/10.1098/rspb.2020.2121">Wind plays a major but not exclusive role in the prevalence of insect flight loss on remote islands</a>. <em>Proceedings of the Royal Society B: Biological Sciences</em>, 287(1940), p. 20202121.</p>
 <p>Leihy, R. I., Duffy, G. A. and Chown, S. L. (2018). <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.2358">Species richness and turnover among indigenous and introduced plants and insects of the Southern Ocean Islands</a>. <em>Ecosphere</em>, 9(7).</p>
 <p>Leihy, R. I., Duffy, G. A., Nortje, E. and Chown, S. L. (2018). <a href="https://doi.org/10.1038/sdata.2018.177">High resolution temperature data for ecological research and management on the Southern Ocean Islands</a>. <em>Scientific Data</em>, 5, 180177.</p>
 
