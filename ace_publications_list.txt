@@ -17,6 +17,7 @@
 
 <h4>Project: Reading Antarctic's past in ice cores (PI: Elizabeth Thomas)</h4>
 <p>King, A. C. F., Thomas, E. R., Pedro, J. B., Markle, B., Potocki, M., Jackson, S. L., Wolff, E. and Kalberer, M. (2019). <a href="https://doi.org/10.1029/2019GL084249">Organic compounds in a sub‐Antarctic ice core: A potential suite of sea ice markers</a>. <em>Geophysical Research Letters</em>, 46.</p>
+<p>Thomas, E. R., Gacitúa, G., Pedro, J. B., Faith King, A. C., Markle, B., Potocki, M. and Moser, D. E. (2021). <a href="https://doi.org/10.5194/tc-15-1173-2021">Physical properties of shallow ice cores from Antarctic and sub-Antarctic islands</a>. <em>The Cryosphere</em>, 15(2), pp. 1173–1186. doi: 10.5194/tc-15-1173-2021.</p>
 
 <h4>Project: Antarctica to reveal pre-industrial atmosphere (PI: Julia Schmale)</h4>
 <p>Efraim, A., Rosenfeld, D., Schmale, J., and Zhu, Y. (2020). <a href="https://doi.org/10.1029/2020JD032409">Satellite retrieval of cloud condensation nuclei concentrations in marine stratocumulus by using clouds as CCN chambers.</a> <em>Journal of Geophysical Research: Atmospheres</em>, 125, e2020JD032409.</p>
