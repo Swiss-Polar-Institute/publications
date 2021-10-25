@@ -88,6 +88,7 @@
 
 <h4>Acoustic mapping of endangered Southern Ocean whales (PI: Brian Miller)</h4>
 <p>Calderan, S., Black, A., Branch, T. A., Collins, M. A., Kelly, N., Leaper, R., Lurcock, S., Miller, B. S., Moore, M., Olson, P.A., Širović, A., Wood, A. G. and Jackson, J. A. (2020). <a href="https://doi.org/10.3354/esr01077">South Georgia blue whales five decades after the end of whaling</a>. <em>Endangered Species Research</em>, 43, pp. 359–373.</p>
+<p>Miller, B. S., Miller, E. J., Calderan, S., Leaper, R., Stafford, K., Širović, A., Rankin, S., Findlay, K., Samaran, F., Van Opzeeland, I., McCaulay, R., Gavrilov, A., Harris, D., Gedamke, J., Bell, E., Andrews-Goff, V., & Double, M. (2017). <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwikmb2K7-XzAhWgBmMBHYqxDgkQFnoECAIQAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F321124649_Circumpolar_acoustic_mapping_of_endangered_Southern_Ocean_whales_Voyage_report_and_preliminary_results_for_the_201617_Antarctic_Circumnavigation_Expedition&usg=AOvVaw3LUab3zTtr7GFVe7N70PO6">Circumpolar acoustic mapping of endangered Southern Ocean whales: Voyage report and preliminary results for the 2016/17 Antarctic Circumnavigation Expedition.</a> <em>International Whaling Commission.</em></p>
 
 <h4>Project: Investigating methane in sediment cores in the vicinity of penguin colonies (PI: Morton Rasch)</h4>
 <p>Wang, P., D’Imperio, L., Liu, B., Tian, Q., Jia, Z., Ambus, P., Rasch, M. and Elberling, B. (2019). <a href="https://doi.org/10.1016/j.soilbio.2019.02.002">Sea animal activity controls CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emission hotspots on South Georgia, sub-Antarctica</a>. <em>Soil Biology and Biochemistry</em>. Elsevier, 132(January), pp. 174–186.</p>
@@ -96,4 +97,4 @@
 <p>Landwehr, S., Thurnherr, I., Cassar, N., Gysel-Beer, M. and Schmale, J. (2020). <a href="https://doi.org/10.5194/amt-13-3487-2020">Using global reanalysis data to quantify and correct airflow distortion bias in shipborne wind speed measurements</a>. <em>Atmospheric Measurement Techniques Discussions</em>, pp. 1–26.</p>
 
 <br>
-Last updated on 8th October 2021
+Last updated on 25th October 2021
